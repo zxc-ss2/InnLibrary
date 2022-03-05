@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnLibrary", "InnLibrary\InnLibrary.csproj", "{77266426-6902-4DD5-91E4-C27CC083E715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnProject", "InnProject\InnProject.csproj", "{55506034-98A5-48B8-8B35-4BB04F41082D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77266426-6902-4DD5-91E4-C27CC083E715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77266426-6902-4DD5-91E4-C27CC083E715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77266426-6902-4DD5-91E4-C27CC083E715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77266426-6902-4DD5-91E4-C27CC083E715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55506034-98A5-48B8-8B35-4BB04F41082D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55506034-98A5-48B8-8B35-4BB04F41082D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55506034-98A5-48B8-8B35-4BB04F41082D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55506034-98A5-48B8-8B35-4BB04F41082D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CEBD65-D302-48F9-800C-120E7E568071}
+	EndGlobalSection
+EndGlobal
